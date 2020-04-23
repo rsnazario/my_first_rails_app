@@ -1,24 +1,42 @@
-# README
+# My First Ruby on Rails App
+>
+The Project is part of Microverse Ruby Curriculum. It leads to the introduction to Ruby on Rails based on the [Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails)
+>
+If you have problem the <code>yarn</code>, you can install following the steps describe [here](https://phoenixnap.com/kb/how-to-install-yarn-ubuntu)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+After installing it, run the command to upgrade it to a version newer than 1.0 as required. </br>
+<code> curl --compressed -o- -L https://yarnpkg.com/install.sh | bash </code>
+>
+## Live Demo
 
-Things you may want to cover:
+  [Heroku Live Demo](https://tranquil-meadow-41249.herokuapp.com/)
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
+- Ruby Gems
+- Heroku
+- VSCode
+- Terminal
 
-* Configuration
+## Author
 
-* Database creation
+👤 **Rafael Nazario**
 
-* Database initialization
+- Github: [@rsnazario](https://github.com/rsnazario)
+- Twitter: [@rsnazario](https://twitter.com/rsnazario)
+- Linkedin: [Rafael Nazario](https://www.linkedin.com/in/rafael-nazario-692b8293/) 
 
-* How to run the test suite
+## 🤝 Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues are welcome!
 
-* Deployment instructions
+Feel free to check the issues page [here](https://github.com/rsnazario/Capstone-Ruby-Bot/issues)
 
-* ...
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
